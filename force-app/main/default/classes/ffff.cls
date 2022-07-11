@@ -1,5 +1,5 @@
 public with sharing class ffff {
     public ffff() {
-        System.debug('devdda');
+        System.debug('devddddda');
     }
 }
